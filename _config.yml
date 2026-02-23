@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0001-5207-5667"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : ""
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
