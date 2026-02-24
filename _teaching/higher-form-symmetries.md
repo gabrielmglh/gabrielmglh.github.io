@@ -1,12 +1,12 @@
 ---
-title: "Lecture Notes on Higher-Form Symmetries"
+title: "Notes on Higher-Form Symmetries"
 collection: teaching
-#type: "Undergraduate course"
+type: "Undergraduate course"
 permalink: /teaching/higher-form-symmetries
 paperurl: 'https://gabrielmglh.github.io/files/higher-form-symmetries/higher-form-sym.pdf'
-#venue: "University 1, Department"
-#date: 2014-01-01
-#location: "City, Country"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
 These notes present my current understanding of higher-form symmetries and are intended for ped-
