@@ -1,10 +1,13 @@
 \contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
-\contentsline {section}{\numberline {2}Symmetry Operators as Topological Operators}{2}{section.2}%
-\contentsline {subsection}{\numberline {2.1}0-form Groups}{3}{subsection.2.1}%
-\contentsline {section}{\numberline {3}Higher-Form Symmetries}{4}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Action of $p$-form symmetries}{5}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}U(1) Gauge Theory in $D$ dimensions}{6}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Discrete Gauge Symmetries}{7}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Pontryagin Dual}{7}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Screening}{8}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}BF Theory}{11}{subsection.4.3}%
+\contentsline {section}{\numberline {2}0-form symmetries}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}0-form Groups}{4}{subsection.2.1}%
+\contentsline {section}{\numberline {3}$p$-form Symmetries}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Action of $p$-form symmetries}{4}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Higher-form symmetries in $D-$dimensional $U(1)$ gauge theory.}{6}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Higher-form symmetries in Chern-Simons theory}{7}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Spontaneous symmetry breaking of higher-form symmetries}{10}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Spontaneous symmetry breaking in Maxwell theory}{10}{subsubsection.3.2.1}%
+\contentsline {section}{\numberline {4}Discrete Gauge Theory}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Pontryagin Dual}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Screening}{13}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}BF Theory}{15}{subsubsection.4.2.1}%
