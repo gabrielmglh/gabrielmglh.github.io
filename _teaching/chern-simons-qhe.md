@@ -8,7 +8,7 @@ date: 2026-01-01
 location: "Londrina, Brazil"
 ---
 
-This page contains a brief review of my understanding of the quantum Hall effect and Chern-Simons theory. These notes are written in Notion, it will be converted to LaTeX soon.
+These notes present my current understanding of Chern-Simons theory and are intended for pedagogical purposes. They are continuously updated as I learn more about the subject and are based on the references listed in references section.
 
 [Notes - Download](https://gabrielmglh.github.io/files/chern-simons-theory/chern-simons-qhe.pdf)
 
